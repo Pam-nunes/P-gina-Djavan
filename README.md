@@ -1,2 +1,2 @@
-# P-gina-Djavan
+# Pagina-Djavan
 Minha primeira página utilizando HTML e CSS.
